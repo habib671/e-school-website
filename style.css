@@ -33,7 +33,7 @@ body {
   width: 554px;
   height: 346px;
 }
-.col-md-6 h6 {
+.col-md-6 h5 {
   width: 220px;
   height: 24px;
   margin-left: 25px;
@@ -181,6 +181,6 @@ footer p {
 }
 
 footer h6 {
-  font-size: 14px;
+  font-size: 1px;
   line-height: 30px;
 }
